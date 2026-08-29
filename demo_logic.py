@@ -1,5 +1,5 @@
 """
-Fichier test avec une ogique de base pour le déplacement des drones, à remplacer par la 
+Fichier test avec une logique de base pour le déplacement des drones, à remplacer par la 
 logique de flocking
 """
 
